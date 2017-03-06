@@ -13,3 +13,6 @@ This repository contains my personal learning list mainly concantrated around Sc
 - [ ] [Tokio](https://github.com/tokio-rs/tokio)
 - [ ] [Diesel](https://github.com/diesel-rs/diesel)
 - [ ] [Rocket](https://github.com/SergioBenitez/rocket)
+
+### Db Ttl
+- [] [Cassandra](https://github.com/apache/Cassandra)
