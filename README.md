@@ -15,4 +15,4 @@ This repository contains my personal learning list mainly concantrated around Sc
 - [ ] [Rocket](https://github.com/SergioBenitez/rocket)
 
 ### Db Ttl
-- [] [Cassandra](https://github.com/apache/Cassandra)
+- [ ] [Cassandra](https://github.com/apache/Cassandra)
