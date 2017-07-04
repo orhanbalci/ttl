@@ -23,3 +23,6 @@ This repository contains my personal learning list mainly concantrated around Sc
 ### API Programming
 - [ ] [GraphQL](http://graphql.org)
 
+### Messaging Ttl
+- [ ] [Kafka](http://kafka.apache.org)
+
