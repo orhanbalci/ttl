@@ -26,3 +26,7 @@ This repository contains my personal learning list mainly concantrated around Sc
 ### Messaging Ttl
 - [ ] [Kafka](http://kafka.apache.org)
 
+### AI
+- [ ] Reinforcement Learning
+- [ ] RNN
+
