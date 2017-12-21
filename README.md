@@ -30,3 +30,5 @@ This repository contains my personal learning list mainly concantrated around Sc
 - [ ] Reinforcement Learning
 - [ ] RNN
 
+### UI
+- [ ] d3.js
