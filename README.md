@@ -1,7 +1,7 @@
 # ttl
 Things To Learn
 
-This repository contains my personal learning list mainly concantrated around Scala and Rust  languages. 
+This repository contains my personal learning list mainly concantrated around Scala and Rust languages. 
 
 ### Scala Ttl
 - [ ] [Flyway Db Migration](https://github.com/flywaydb/flywaydb)
@@ -20,6 +20,7 @@ This repository contains my personal learning list mainly concantrated around Sc
 
 ### DevOps Ttl
 - [ ] [Ansible Provisioning](https://github.com/ansible/ansible)
+- [ ] [Docker](https://github.com/docker)
 
 ### API Programming
 - [ ] [GraphQL](http://graphql.org)
@@ -27,9 +28,9 @@ This repository contains my personal learning list mainly concantrated around Sc
 ### Messaging Ttl
 - [ ] [Kafka](http://kafka.apache.org)
 
-### AI
+### AI-ML Ttl
 - [ ] Reinforcement Learning
 - [ ] RNN
 
-### UI
+### UI Ttl
 - [ ] d3.js
