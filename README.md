@@ -5,8 +5,8 @@ This repository contains my personal learning list mainly concantrated around Sc
 
 ### Scala Ttl
 - [ ] [Flyway Db Migration](https://github.com/flywaydb/flywaydb)
-- [ ] [Akka Streams](https://github.com/akka/akka)
-- [ ] [Slick FRM](https://github.com/slick/slick)
+- [x] [Akka Streams](https://github.com/akka/akka)
+- [x] [Slick FRM](https://github.com/slick/slick)
 - [ ] [Cornichon](https://github.com/agourlay/cornichon) 
 - [ ] scala.meta
  
@@ -20,13 +20,13 @@ This repository contains my personal learning list mainly concantrated around Sc
 
 ### DevOps Ttl
 - [ ] [Ansible Provisioning](https://github.com/ansible/ansible)
-- [ ] [Docker](https://github.com/docker)
+- [x] [Docker](https://github.com/docker)
 
 ### API Programming
 - [ ] [GraphQL](http://graphql.org)
 
 ### Messaging Ttl
-- [ ] [Kafka](http://kafka.apache.org)
+- [x] [Kafka](http://kafka.apache.org)
 
 ### AI-ML Ttl
 - [ ] Reinforcement Learning
